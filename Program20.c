@@ -156,6 +156,6 @@ int main() {
 
     return 0;
 }
-
+    system("getmac");
     return 0;
 }
